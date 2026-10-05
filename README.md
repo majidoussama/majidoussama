@@ -22,11 +22,6 @@ Currently looking for a **2-month internship** to apply these skills in a struct
 
 ## 🛠️ Featured Projects
 
-### 🔹 [AWS Cloud Security Lab](https://github.com/majidoussama/aws-cloud-security-lab)
-Secured a real AWS VPC with a **custom Linux firewall** (iptables/nftables) and inline **Suricata IDS/IPS**, deployed a **Wazuh SIEM** from scratch, hardened every instance against the **CIS AWS Foundations Benchmark**, then pentested my own infrastructure (Nmap, Burp Suite SQLi/XSS) and closed a real detection gap with a self-deployed **ModSecurity WAF** — all for ~$2.79 of AWS credit.
-
-`AWS` `Wazuh` `Suricata` `iptables/nftables` `CIS Benchmark` `ModSecurity` `CloudTrail`
-
 ### 🔹 [SOC & Pentest SIEM Lab](https://github.com/majidoussama/soc-pentest-siem-lab)
 A virtualized enterprise network — 4 security zones, a DMZ security chain (WAF → reverse proxy → app), a Windows **Active Directory** domain, and a **Wazuh SIEM** — tested against a 23-attack red-team campaign (recon, brute force, privilege escalation, DoS, web exploitation), with detection validated and a countermeasure documented for every attack executed.
 
@@ -36,6 +31,13 @@ A virtualized enterprise network — 4 security zones, a DMZ security chain (WAF
 Enterprise network infrastructure secured with a **FortiGate NGFW**, Active Directory with GPO-based access control, and DMZ segmentation — validated through offensive testing (DDoS simulation, SQLi/XSS pentests, segmentation checks).
 
 `FortiGate NGFW` `Active Directory` `GPO` `DMZ` `Defense in Depth`
+
+
+### 🔹 [AWS Cloud Security Lab](https://github.com/majidoussama/aws-cloud-security-lab)
+Secured a real AWS VPC with a **custom Linux firewall** (iptables/nftables) and inline **Suricata IDS/IPS**, deployed a **Wazuh SIEM** from scratch, hardened every instance against the **CIS AWS Foundations Benchmark**, then pentested my own infrastructure (Nmap, Burp Suite SQLi/XSS) and closed a real detection gap with a self-deployed **ModSecurity WAF** — all for ~$2.79 of AWS credit.
+
+`AWS` `Wazuh` `Suricata` `iptables/nftables` `CIS Benchmark` `ModSecurity` `CloudTrail`
+
 
 ---
 
